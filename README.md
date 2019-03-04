@@ -1,1 +1,1 @@
-<a href="index.html">No kliknij co</a>
+<meta http-equiv="refresh" content="0; URL=index.html">
