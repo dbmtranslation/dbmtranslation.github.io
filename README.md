@@ -1,1 +1,1 @@
-# Strona na infe, you know
+<a href="index.html">No kliknij co</a>
